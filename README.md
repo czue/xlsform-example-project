@@ -13,6 +13,10 @@ Install requirements
 
 `pip install -r requirements.txt`
 
+Setup submodule
+
+`git submodule update --init --recursive`
+
 # Todos
 
 `pyxform_interface` should be published to pypi and installed via pip/requirements instead of submodule.
