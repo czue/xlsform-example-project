@@ -1,0 +1,3 @@
+[submodule "pyxform_interface"]
+	path = pyxform_interface
+	url = https://github.com/opendatakit/pyxform_interface.git
